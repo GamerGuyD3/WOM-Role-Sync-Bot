@@ -1,0 +1,7 @@
+discord.py
+aiohttp
+requests
+prompt-toolkit
+Flask
+gunicorn
+python-dotenv
